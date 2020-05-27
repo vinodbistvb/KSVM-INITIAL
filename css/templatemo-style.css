@@ -159,7 +159,7 @@ https://templatemo.com/tm-516-known
 
   section {
     position: relative;
-    padding: 100px 0;
+    padding: 10px 0;
   }
 
   #team,
@@ -477,7 +477,7 @@ https://templatemo.com/tm-516-known
 
   .team-thumb .social-icon {
     border-top: 1px solid #f0f0f0;
-    padding: 4px 20px 0 20px;
+    padding: 4px 10px 0 10px;
   }
 
   .team-thumb .social-icon li a {
@@ -487,6 +487,7 @@ https://templatemo.com/tm-516-known
 
   .team-info h3 {
     margin: 0;
+    font-size:18px;
   }
 
 
